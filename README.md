@@ -1,3 +1,3 @@
 # proto-preact-bingbong
 
-[ ] add tailwind
+- [ ] add tailwind
